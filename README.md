@@ -82,9 +82,9 @@ The app delivers **three gamified experiences** to teach essential cyber safety 
 
 ---
 
-##  Security & Accessibility  
+##  Security 
 - Secure dev practices: input validation, HTTPS, session protection, password hashing.  
-- Accessibility: WCAG guidelines (colour contrast, ARIA labels, keyboard navigation).  
+  
 
 ---
 
@@ -97,7 +97,7 @@ The app delivers **three gamified experiences** to teach essential cyber safety 
 
 ##  Deliverables  
 - Use Case Diagrams, ER Diagrams, UI Wireframes  
-- Prototype demo video  
+- Prototype demo  
 - Final report + oral defence  
 
 ---
@@ -112,7 +112,7 @@ The app delivers **three gamified experiences** to teach essential cyber safety 
 ### Installation  
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/trustortrap.git
+git clone https://github.com/dylanmugo/trustortrap.git
 
 # Move into folder
 cd trustortrap
